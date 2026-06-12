@@ -1,0 +1,31 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+struct Osoba
+{
+    string imie;
+    string nazwisko;
+    int wiek;
+};
+
+int main()
+{
+    Osoba osoby[3];
+
+    osoby[0] = {"Adam", "Nowicki", 22};
+    osoby[1] = {"Katarzyna", "Lis", 28};
+    osoby[2] = {"Marek", "Kaczmarek", 35};
+
+    cout << "Dane zapisane w tablicy struktur:" << endl;
+
+    for(int i = 0; i < 3; i++)
+    {
+        cout << i + 1 << ". Imie: " << osoby[i].imie
+             << ", Nazwisko: " << osoby[i].nazwisko
+             << ", Wiek: " << osoby[i].wiek << endl;
+    }
+
+    return 0;
+}
