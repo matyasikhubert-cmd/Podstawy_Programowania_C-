@@ -5,4 +5,6 @@ Jest to moje pierwsze repozytorium, więc mogą być lekkie niedociągnięcia. J
 
 Aby przejśc do poszczególnego zadania, należy wejść w folder i odczytac zadanie z tego oto folderu. Każde zadanie jest zrobione w dobrym folderze, tak, aby się nie pomylić. W każdym z folderów, zadania są ponumerowane. 
 
-Niestety nie jestem na tyle zaawansowanym użytkownikiem, aby wiedziec jak odpalic programy zapisane w folderach, za co najmocniej przepraszam. Ale jak przeczytałem gdzies na internecie, to chyba albo folder zip pobrac albo w pycharm cos poklikac.
+JAK URUCHOMIĆ PROGRAMY?
+
+Wszystkie programy to podstawowe aplikacje napisane w języku C++. Aby je uruchomic w najprostszy sposób użyj takich narzędzi jak Visual Studio czy DEV-C++. Te narzędzia mają wbudowany kompilator i nie wymagają dodatkowych konfiguracji. 
